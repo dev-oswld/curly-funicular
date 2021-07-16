@@ -1,0 +1,11 @@
+# Javac compiles
+target/
+
+# Workspace
+*.code-workspace
+
+# Hidden files
+.settings
+.project
+.classpath
+.vscode
