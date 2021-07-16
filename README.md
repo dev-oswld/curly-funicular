@@ -1,2 +1,1 @@
-# curly-funicular
-Java project in code space 🤞
+# Java project in code space 🤞
