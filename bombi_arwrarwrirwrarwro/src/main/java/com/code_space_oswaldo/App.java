@@ -1,9 +1,5 @@
 package com.code_space_oswaldo;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
