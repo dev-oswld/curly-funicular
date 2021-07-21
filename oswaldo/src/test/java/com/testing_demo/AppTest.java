@@ -14,7 +14,7 @@ public class AppTest
       //assertEquals("TestNG is working fine", str);
 
       ///workspaces/curly-funicular/drivers_selenium/chromedriver.exe ONLY Windows
-      System .setProperty("webdriver.chrome.driver", "/workspaces/curly-funicular/drivers_selenium/chromedriver");
+      System .setProperty("webdriver.chrome.driver", "/workspace/curly-funicular/oswaldo/drivers_/chromedriver.exe");
       WebDriver driver = new ChromeDriver();
       
       driver.get("wwww.google.com");
