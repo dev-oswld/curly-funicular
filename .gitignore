@@ -1,6 +1,10 @@
 # Javac compiles
 target/
 
+# Nuget packages C#
+obj/
+bin/
+
 # Workspace
 *.code-workspace
 
